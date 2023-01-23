@@ -1,2 +1,2 @@
 # pdf2text
-Node Js Api Convert PDF -- to-- TEXT
+This is Node JS APi which Receive PDF with request and sent text as a reponse
